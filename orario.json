@@ -1,0 +1,145 @@
+{
+    "orario": {
+        "Lunedi": {
+            "8": {
+                "subject": "Lingua inglese",
+                "room": "Aula 1-3 Debate"
+            },
+            "9": {
+                "subject": "Sistemi e reti",
+                "room": "Aula 922"
+            },
+            "10": {
+                "subject": "Scienze motorie e sportive",
+                "room": "Palestra 187"
+            },
+            "11": {
+                "subject": "Scienze motorie e sportive",
+                "room": "Palestra 187"
+            },
+            "12": {
+                "subject": "Storia",
+                "room": "Aula 74"
+            }
+        },
+        "Martedi": {
+            "8": {
+                "subject": "Religione Cattolica",
+                "room": "Aula 606"
+            },
+            "9": {
+                "subject": "Informatica",
+                "room": "Aula 6"
+            },
+            "10": {
+                "subject": "Gestione progetto, organizzazione d'impresa",
+                "room": "Aula 6"
+            },
+            "11": {
+                "subject": "Lingua e letteratura italiana",
+                "room": "Aula 74"
+            },
+            "12": {
+                "subject": "Matematica",
+                "room": "Aula 13"
+            }
+        },
+        "Mercoledi": {
+            "8": {
+                "subject": "Sistemi e reti",
+                "room": "Aula 922"
+            },
+            "9": {
+                "subject": "Sistemi e reti",
+                "room": "Aula 922"
+            },
+            "10": {
+                "subject": "Sistemi e reti",
+                "room": "Aula 922"
+            },
+            "11": {
+                "subject": "Gestione progetto, organizzazione d'impresa",
+                "room": "Aula 6"
+            },
+            "12": {
+                "subject": "Tecnologie e progettazione di sistemi informatici",
+                "room": "Aula 6"
+            },
+            "13": {
+                "subject": "Informatica",
+                "room": "Aula 2"
+            }
+        },
+        "Giovedi": {
+            "8": {
+                "subject": "Storia",
+                "room": "Aula 74"
+            },
+            "9": {
+                "subject": "Matematica",
+                "room": "Aula 13"
+            },
+            "10": {
+                "subject": "Tecnologie e progettazione di sistemi informatici",
+                "room": "2 Maior"
+            },
+            "11": {
+                "subject": "Tecnologie e progettazione di sistemi informatici",
+                "room": "2 Maior"
+            },
+            "12": {
+                "subject": "Tecnologie e progettazione di sistemi informatici",
+                "room": "2 Maior"
+            }
+        },
+        "Venerdi": {
+            "8": {
+                "subject": "Matematica",
+                "room": "Aula 13"
+            },
+            "9": {
+                "subject": "Lingua inglese",
+                "room": "Aula 29"
+            },
+            "10": {
+                "subject": "Informatica",
+                "room": "Aula 922"
+            },
+            "11": {
+                "subject": "Informatica",
+                "room": "Aula 922"
+            },
+            "12": {
+                "subject": "Lingua e letteratura italiana",
+                "room": "Aula 74"
+            },
+            "13": {
+                "subject": "Lingua e letteratura italiana",
+                "room": "Aula 74"
+            }
+        },
+        "Sabato": {
+            "8": {
+                "subject": "Informatica",
+                "room": "Aula 46"
+            },
+            "9": {
+                "subject": "Informatica",
+                "room": "Aula 46"
+            },
+            "10": {
+                "subject": "Gestione progetto, organizzazione d'impresa",
+                "room": "Aula 6"
+            },
+            "11": {
+                "subject": "Lingua inglese",
+                "room": "Aula 29"
+            },
+            "12": {
+                "subject": "Lingua e letteratura italiana",
+                "room": "Aula 74"
+            }
+        }
+    }
+}
+
